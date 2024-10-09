@@ -1,6 +1,6 @@
 # TransactX: Multi-Payment Gateway Integration Platform
 
-PayFlexor is a full-stack platform designed to help businesses integrate multiple payment gateways like Stripe, PayPal, and Square into one unified system. It offers flexibility in handling transactions, switching between gateways, and optimizing payment processes based on business needs. This solution allows for a seamless payment experience, reduces transaction failures, and provides advanced insights into payment metrics.
+TransactX is a full-stack platform designed to help businesses integrate multiple payment gateways like Stripe, PayPal, and Square into one unified system. It offers flexibility in handling transactions, switching between gateways, and optimizing payment processes based on business needs. This solution allows for a seamless payment experience, reduces transaction failures, and provides advanced insights into payment metrics.
 
 ## Key Features
 
